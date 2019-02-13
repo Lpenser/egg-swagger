@@ -1,0 +1,11 @@
+{
+  "/": {
+    "get": {
+      "description": "创建用户"
+      // "parameters": [
+      //   { "name": "body", "in": "body", "required": true, "schema": { "$ref": "User" } }
+      // ],
+      // "responses": { "type": "object", "schema": { "$ref": "User" } }
+    }
+  }
+}
